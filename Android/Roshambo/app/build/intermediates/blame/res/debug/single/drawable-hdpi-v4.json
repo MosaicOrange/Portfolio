@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/miguelpinto/OneDrive/untitled folder/Android/Roshambo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/humans.png",
+        "source": "/Users/miguelpinto/OneDrive/untitled folder/Android/Roshambo/app/src/main/res/drawable-hdpi/humans.png"
+    },
+    {
+        "merged": "/Users/miguelpinto/OneDrive/untitled folder/Android/Roshambo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/roaches.png",
+        "source": "/Users/miguelpinto/OneDrive/untitled folder/Android/Roshambo/app/src/main/res/drawable-hdpi/roaches.png"
+    },
+    {
+        "merged": "/Users/miguelpinto/OneDrive/untitled folder/Android/Roshambo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/miguelpinto/OneDrive/untitled folder/Android/Roshambo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/nuclear.png",
+        "source": "/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/src/main/res/drawable-hdpi/nuclear.png"
+    },
+    {
+        "merged": "/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/humans.png",
+        "source": "/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/src/main/res/drawable-hdpi/humans.png"
+    },
+    {
+        "merged": "/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/miguelpinto/OneDrive/untitled folder/Android/Roshambo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/nuclear.png",
+        "source": "/Users/miguelpinto/OneDrive/untitled folder/Android/Roshambo/app/src/main/res/drawable-hdpi/nuclear.png"
+    },
+    {
+        "merged": "/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/roaches.png",
+        "source": "/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/src/main/res/drawable-hdpi/roaches.png"
+    }
+]

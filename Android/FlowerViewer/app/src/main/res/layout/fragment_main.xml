@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivityFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#CDE1F5">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/button_bar"
+        android:layout_weight="10">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.25"
+            android:text="Prev"
+            android:id="@+id/prev_btn"
+            android:background="#703603"
+            android:textColor="#CDE1F5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Pretty Flowers"
+            android:id="@+id/text_field"
+            android:gravity="center_horizontal"
+            android:textColor="#703603" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.25"
+            android:text="Next"
+            android:id="@+id/next_btn"
+            android:background="#703603"
+            android:textColor="#CDE1F5" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:id="@+id/imgVw"
+        android:src="@drawable/bouquet"
+        android:contentDescription="flowers"
+        android:layout_weight="1"
+        android:background="#FFF1E6" />
+
+
+</LinearLayout>

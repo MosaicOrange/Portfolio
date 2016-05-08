@@ -1,0 +1,73 @@
+inserting name Dylan into Dr. Tao's List
+inserting name Steve into Dr. Courtney's List
+inserting name Dale into Dr. Tao's List
+inserting name Patrick into Dr. Courtney's List
+inserting name Buck into Dr. Tao's List
+inserting name Nick into Dr. Courtney's List
+inserting name Eric into Dr. Tao's List
+inserting name Trevor into Dr. Courtney's List
+inserting name Julian into Dr. Tao's List
+inserting name Walter into Dr. Courtney's List
+inserting name David into Dr. Tao's List
+inserting name Wojiech into Dr. Courtney's List
+inserting name Michael into Dr. Courtney's List
+inserting name Angela into Dr. Tao's List
+inserting name Thomas into Dr. Courtney's List
+inserting name Dijkstra into Dr. Tao's List
+inserting name Rick into Dr. Courtney's List
+inserting name Jose into Dr. Tao's List
+inserting name Page into Dr. Courtney's List
+inserting name Jason into Dr. Tao's List
+
+Would you like to enter "[A]ADD" a name to the list, "[P]PRINT" the list of a specific Professor, "[D]DELETE" a name from a list, or "[S]SEARCH" for name to verify a student is a CS Major?Add
+
+Please provide the name of the Student.Guyver
+Guyver has been added to Dr. Tao's List
+
+	Would you like to perform more functions? [Y] or [N]:y
+
+Would you like to enter "[A]ADD" a name to the list, "[P]PRINT" the list of a specific Professor, "[D]DELETE" a name from a list, or "[S]SEARCH" for name to verify a student is a CS Major?D
+
+Please provide the name of the Student.Walter
+Walter has been removed from Dr. Courtney's List
+
+	Would you like to perform more functions? [Y] or [N]:y
+
+Would you like to enter "[A]ADD" a name to the list, "[P]PRINT" the list of a specific Professor, "[D]DELETE" a name from a list, or "[S]SEARCH" for name to verify a student is a CS Major?p
+
+Do you want to print Dr. [T]Tao's List or Dr. [C]Courtney's List?t
+Dr. Tao's List:Angela -> Buck -> Dale -> David -> Dijkstra -> Dylan -> Eric -> Guyver -> Jason -> Jose -> Julian -> null
+
+	Would you like to perform more functions? [Y] or [N]:y
+
+Would you like to enter "[A]ADD" a name to the list, "[P]PRINT" the list of a specific Professor, "[D]DELETE" a name from a list, or "[S]SEARCH" for name to verify a student is a CS Major?p
+
+Do you want to print Dr. [T]Tao's List or Dr. [C]Courtney's List?c
+Michael -> Nick -> Page -> Patrick -> Rick -> Steve -> Thomas -> Trevor -> Wojiech -> null
+
+	Would you like to perform more functions? [Y] or [N]:y
+
+Would you like to enter "[A]ADD" a name to the list, "[P]PRINT" the list of a specific Professor, "[D]DELETE" a name from a list, or "[S]SEARCH" for name to verify a student is a CS Major?s
+
+Please provide the name of the Student.Nick
+
+Nick is a CS Major on Dr. Courtney's List.
+
+	Would you like to perform more functions? [Y] or [N]:y
+
+Would you like to enter "[A]ADD" a name to the list, "[P]PRINT" the list of a specific Professor, "[D]DELETE" a name from a list, or "[S]SEARCH" for name to verify a student is a CS Major?s
+
+Please provide the name of the Student.Eric
+
+Eric is a CS Major on Dr. Tao's List.
+
+	Would you like to perform more functions? [Y] or [N]:y
+
+Would you like to enter "[A]ADD" a name to the list, "[P]PRINT" the list of a specific Professor, "[D]DELETE" a name from a list, or "[S]SEARCH" for name to verify a student is a CS Major?s
+
+Please provide the name of the Student.Bill
+
+Bill never found on Dr. Tao's List.
+
+	Would you like to perform more functions? [Y] or [N]:n
+You have chosen not to proceed, goodbye!

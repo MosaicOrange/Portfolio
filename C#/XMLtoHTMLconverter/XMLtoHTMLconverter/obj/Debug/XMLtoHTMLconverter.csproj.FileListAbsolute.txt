@@ -1,0 +1,9 @@
+C:\Users\Joao\OneDrive\VisualStudio\XMLtoHTMLconverter\XMLtoHTMLconverter\bin\Debug\XMLtoHTMLconverter.exe.config
+C:\Users\Joao\OneDrive\VisualStudio\XMLtoHTMLconverter\XMLtoHTMLconverter\bin\Debug\XMLtoHTMLconverter.exe
+C:\Users\Joao\OneDrive\VisualStudio\XMLtoHTMLconverter\XMLtoHTMLconverter\bin\Debug\XMLtoHTMLconverter.pdb
+C:\Users\Joao\OneDrive\VisualStudio\XMLtoHTMLconverter\XMLtoHTMLconverter\obj\Debug\XMLtoHTMLconverter.csprojResolveAssemblyReference.cache
+C:\Users\Joao\OneDrive\VisualStudio\XMLtoHTMLconverter\XMLtoHTMLconverter\obj\Debug\XMLtoHTMLconverter.exe
+C:\Users\Joao\OneDrive\VisualStudio\XMLtoHTMLconverter\XMLtoHTMLconverter\obj\Debug\XMLtoHTMLconverter.pdb
+C:\Users\Joao\OneDrive\Workspace\GitHub\C#\001-XMLtoHTMLconverter\XMLtoHTMLconverter\bin\Debug\XMLtoHTMLconverter.exe.config
+C:\Users\Joao\OneDrive\Workspace\GitHub\C#\001-XMLtoHTMLconverter\XMLtoHTMLconverter\obj\Debug\XMLtoHTMLconverter.exe
+C:\Users\Joao\OneDrive\Workspace\GitHub\C#\001-XMLtoHTMLconverter\XMLtoHTMLconverter\obj\Debug\XMLtoHTMLconverter.pdb

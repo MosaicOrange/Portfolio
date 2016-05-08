@@ -1,0 +1,116 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.rha_roshambo.MainActivity" >
+
+    <TextView android:id="@+id/cmpShow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="Computer"
+        android:textColor="#ff0000" />
+
+	<TextView android:id="@+id/playerShow"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:text="Player"
+        android:textColor="#ff0000" />
+
+   	<ImageButton
+   	    android:id="@+id/roaches"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:layout_alignRight="@+id/playerShow"
+   	    android:layout_below="@+id/playerShow"
+   	    android:layout_marginTop="26dp"
+   	    android:contentDescription="ROACHES"
+   	    android:src="@drawable/roaches" />
+
+   	<ImageButton
+   	    android:id="@+id/nuclear"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:layout_alignLeft="@+id/humans"
+   	    android:layout_below="@+id/humans"
+   	    android:layout_marginTop="53dp"
+   	    android:contentDescription="NUCLEAR"
+   	    android:src="@drawable/nuclear" />
+
+   	<ImageButton
+   	    android:id="@+id/humans"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:layout_alignLeft="@+id/roaches"
+   	    android:layout_below="@+id/roaches"
+   	    android:layout_marginTop="55dp"
+   	    android:contentDescription="HUMANS"
+   	    android:src="@drawable/humans" />
+
+   	<ImageView
+   	    android:id="@+id/viewCmp"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:layout_alignBottom="@+id/humans"
+   	    android:layout_alignRight="@+id/cmpShow"
+   	    android:layout_marginBottom="14dp"
+   	    android:contentDescription="cmpViewDes" />	
+	
+	<TextView
+	    android:id="@+id/textLosses"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignLeft="@+id/cmpShow"
+	    android:layout_below="@+id/textTies"
+	    android:text="Losses:"
+	    android:textColor="#ff2400"
+	    android:textSize="15sp" />	
+	
+	<TextView
+	    android:id="@+id/textWins"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignLeft="@+id/cmpShow"
+	    android:layout_below="@+id/textLosses"
+	    android:text="Wins:"
+	    android:textColor="#ff2400"
+	    android:textSize="15sp" />	
+
+	<TextView
+	    android:id="@+id/textResult"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignLeft="@+id/cmpShow"
+	    android:layout_below="@+id/textWins"
+	    android:text="Result:"
+	    android:textColor="#ff2400"
+	    android:textSize="15sp" />
+
+	<TextView
+	    android:id="@+id/textCount"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignBottom="@+id/nuclear"
+	    android:layout_alignLeft="@+id/textTies"
+	    android:layout_marginBottom="20dp"
+	    android:text="Round:"
+	    android:textColor="#ff2400"
+	    android:textSize="15sp" />
+
+	<TextView
+	    android:id="@+id/textTies"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignBottom="@+id/nuclear"
+	    android:layout_alignLeft="@+id/textLosses"
+	    android:text="Ties:"
+	    android:textColor="#ff2400"
+	    android:textSize="15sp" />
+		
+</RelativeLayout>

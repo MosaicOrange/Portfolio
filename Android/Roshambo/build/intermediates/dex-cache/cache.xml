@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_4f1d348349b243d6bdf10a7f96993766fe1af1e2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cd2d22fd2167b25663e1350bc1b69eddd01aa40">
+        <dex dex="/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed7d4dfd9d1f1d8e61ef6b3375ccb4d5cd0d0b03/classes.dex" />
+    </item>
+    <item
+        jar="/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a812bcf18cc24d0f1f88445be265afb44a14de7a">
+        <dex dex="/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1a72fd6a60ab9d359df50bd4e5ec274faacdad4b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/miguelpinto/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_d2c40c71810d842474d4895328daac23e4903c1d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/miguelpinto/OneDrive/untitled folder/Roshambo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_150fca1ff2fafdda7883816906ec8ec9635e8661/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,6 @@
+C:\Users\Joao\OneDrive\VisualStudio\miniXMLtoHTMLconverter\miniXMLtoHTMLconverter\bin\Debug\miniXMLtoHTMLconverter.exe.config
+C:\Users\Joao\OneDrive\VisualStudio\miniXMLtoHTMLconverter\miniXMLtoHTMLconverter\bin\Debug\miniXMLtoHTMLconverter.exe
+C:\Users\Joao\OneDrive\VisualStudio\miniXMLtoHTMLconverter\miniXMLtoHTMLconverter\bin\Debug\miniXMLtoHTMLconverter.pdb
+C:\Users\Joao\OneDrive\VisualStudio\miniXMLtoHTMLconverter\miniXMLtoHTMLconverter\obj\Debug\miniXMLtoHTMLconverter.csprojResolveAssemblyReference.cache
+C:\Users\Joao\OneDrive\VisualStudio\miniXMLtoHTMLconverter\miniXMLtoHTMLconverter\obj\Debug\miniXMLtoHTMLconverter.exe
+C:\Users\Joao\OneDrive\VisualStudio\miniXMLtoHTMLconverter\miniXMLtoHTMLconverter\obj\Debug\miniXMLtoHTMLconverter.pdb

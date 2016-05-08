@@ -1,0 +1,56 @@
+private int search(String key)
+  {
+   boolean found;
+    int i;
+    _____________________________
+    _____________________________
+   while ( ! found && i < numTitles )
+	 {
+  		  if( list[i].getTitle().equals(key)  )
+			_________________
+		  else
+			i++;
+	  	}
+	  	if ( found )
+	  		  ______________________
+	  	else
+		  	return(-1);  }  }  
+
+public int getQuantity( )
+    {   return quantity;      }
+
+public void setQuantity ( int newQuantity )
+    {   quantity = newQuantity;     }
+
+public void setTitle ( String newTitle )
+     {    title = newTitle;      }
+
+public String  getTitle ( )
+  {   return title;   }
+
+public void sort ()
+   {
+                  int i, j, minSubscript;
+
+                  for ( i = 0; i < count-1; i++)
+                  { 
+                         minSubscript = i;
+                         for ( j = i ; j < numTitles; j ++ )
+                                  {
+                                       if ( list [j].getQuantity( )   < list[minSubscript].getQuantity ( ))
+                                                minSubscript = j;
+                                   }
+
+                         swap ( i, minSubscript );
+                  } 
+      }
+
+
+    private  void swap ( int first, int second )   // first and second are just subscripts
+    {  
+                 _____________  temp;
+                 temp = list[first];
+                 list[first] = list[second];
+                 list[second] = temp;
+      }
+

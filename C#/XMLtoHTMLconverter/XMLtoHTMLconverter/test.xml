@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+	<container containername="Container 1" samplenumberunit="MilliUnits">
+		<samples>
+			<sample samplename="Material A" samplenumber="4.30E-01" sampleboolean="0" />
+			<sample samplename="Material B" samplenumber="9.90E-03" sampleboolean="1" />
+		</samples>
+	</container>
+	<container containername="Container 2" samplenumberunit="DifferentUnits">
+		<samples>
+			<sample samplename="Material C" samplenumber="6.30E-04" sampleboolean="1" />
+		</samples>
+	</container>
+	<container containername="Container 3" samplenumberunit="DifferentUnits">
+		<samples>
+			<sample samplename="Material B" samplenumber="3.40E+4" sampleboolean="0" />
+			<sample samplename="Material C" samplenumber="2.60E+1" sampleboolean="1" />
+			<sample samplename="Material B" samplenumber="4.10E+5" sampleboolean="0" />
+		</samples>
+	</container>
+</package>
