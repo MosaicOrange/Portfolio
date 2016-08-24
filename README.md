@@ -2,6 +2,9 @@
 
 ####Portfolio
 
+######[APICode]
+* A brand new project. Targeting an external resource, passing GET parameters, retrieving a JSON file, converting said file and organizing it, and returning a modified JSON object based on those parameters. A Maven project using multiple dependencies, targets Java EE 7 and JDK 1.8, done in Netbeans 8.1 using GlassFish Server 4.1.1. Written completely in Java from the ground up. Original Solution.
+
 ######[SQL]
 * Building a MS SQL database. Organized into stages of progression. Original Solution.
 
