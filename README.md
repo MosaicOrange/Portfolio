@@ -1,30 +1,33 @@
-####[LinkedIn](https://www.linkedin.com/in/mosaicorange)
+### Portfolio
 
-####Portfolio
+###### [Udacity - Grow with Google Challenge]
+* Completed projects from the **Grow with Google Challenge Scholarship: Front-End Web Dev**
 
-######[APICode]
+###### [APICode]
 * A brand new project. Targeting an external resource, passing GET parameters, retrieving a JSON file, converting said file and organizing it, and returning a modified JSON object based on those parameters. A Maven project using multiple dependencies, targets Java EE 7 and JDK 1.8, done in Netbeans 8.1 using GlassFish Server 4.1.1. Written completely in Java from the ground up. Original Solution.
 
-######[SQL]
+###### [SQL]
 * Building a MS SQL database. Organized into stages of progression. Original Solution.
 
-######[Android\Roshambo]
+###### [Android\Roshambo]
 * Rock, Paper, Scissors game but with a twist, using Nuclear Apocalypse, Cockroach, Human. Refer to the Changes.pdf.
 
-######[Android\pintoMonitor]
-* An app that monitors device resources by PID, also allows to kill background processes. Refer to the Changes.pdf.######[Android\FlowerViewer]
+###### [Android\pintoMonitor]
+* An app that monitors device resources by PID, also allows to kill background processes. Refer to the Changes.pdf.
+
+###### [Android\FlowerViewer]
 * A simple app that rotates through a series of pictures. Original Solution.
 
-######[C#\miniXMLtoHTMLconverter]
+###### [C#\miniXMLtoHTMLconverter]
 * Same as XMLtoHTMLconverter but much smaller and only processes certain data instead of the all the data in the XML file. Original Solution.
 
-######[C#\XMLtoHTMLconverter]
+###### [C#\XMLtoHTMLconverter]
 * A console application that takes an XML file and outputs the information into an HTML file, while also performing some calculations and conversions. Original Solution.
 
-######[Java\ObjectDrawJar]
+###### [Java\ObjectDrawJar]
 * Various projects; some utilize ObjectDraw.Jar which is in the workspace. Some of them are examples that were done from the book, or assigned with fill in the blanks, and some of it was original work.
 
-######[Java\Miscellaneous]
+###### [Java\Miscellaneous]
 * Various older projects; check out my miscellaneous package, it's where I keep most of my more eccentric programs. Some of them are examples that were done from the book, or assigned with fill in the blanks, and some of it was original work.
 
-
+#### [LinkedIn Profile](https://www.linkedin.com/in/mosaicorange)
