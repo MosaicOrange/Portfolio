@@ -1,7 +1,17 @@
+
 ### Portfolio
+#### [LinkedIn Profile](https://www.linkedin.com/in/mosaicorange)
+
+###### [Python\Checking_Indentation]
+* A tool, written in Python 3.7, that checks a script for proper indentation
+* Only uses standard libraries
+
+###### [Java\Coding_Challenges]
+* Various assorted coding challenges
 
 ###### [Python\Processing_Messages]
 * A tool, written in Python 3.6, that processes messages of a matching syntax
+* Only uses standard libraries
 
 ###### [Udacity - Grow with Google Challenge]
 * Completed projects from the **Grow with Google Challenge Scholarship: Front-End Web Dev**
@@ -32,5 +42,3 @@
 
 ###### [Java\Miscellaneous]
 * Various older projects; check out my miscellaneous package, it's where I keep most of my more eccentric programs. Some of them are examples that were done from the book, or assigned with fill in the blanks, and some of it was original work.
-
-#### [LinkedIn Profile](https://www.linkedin.com/in/mosaicorange)
