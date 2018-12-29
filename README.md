@@ -13,6 +13,9 @@
 * A tool, written in Python 3.6, that processes messages of a matching syntax
 * Only uses standard libraries
 
+###### [Python\pydev]
+* Migrated and merged historical repository
+
 ###### [Udacity - Grow with Google Challenge]
 * Completed projects from the **Grow with Google Challenge Scholarship: Front-End Web Dev**
 
