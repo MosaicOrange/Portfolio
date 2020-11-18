@@ -3,7 +3,7 @@ FastAPI & NLTK implementation
 ======
 Technologies
 ------
-This was built using python 3.8.6. Typically I would use conda, but for the sake of brevity and not knowing if the end users have conda installed, I decided to go without.
+This was built using python 3.8.5. Typically I would use conda, but for the sake of brevity and not knowing if the end users have conda installed, I decided to go without.
 
 For the text summarizer, I decided to use [NLTK](https://www.nltk.org/) and I used a tutorial I found at GeeksForGeeks [here](https://www.geeksforgeeks.org/python-text-summarizer/). Some of the code is structured in a way as to show my ability to interpret and construct complicated comprehensions as well as using other tools within python to accomplish the same goals, but more cleanly than was done in the original tutorial.
 
