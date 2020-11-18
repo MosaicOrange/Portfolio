@@ -2,6 +2,10 @@
 ### Portfolio
 #### [LinkedIn Profile](https://www.linkedin.com/in/mosaicorange)
 
+###### [Python\api_txt_sum]
+* A tool, written in Python 3.8, an api that summarizes texts, stores said information, and returns the summary and a document id
+* Uses FastAPI and NLTK
+
 ###### [Python\Checking_Indentation]
 * A tool, written in Python 3.7, that checks a script for proper indentation
 * Only uses standard libraries

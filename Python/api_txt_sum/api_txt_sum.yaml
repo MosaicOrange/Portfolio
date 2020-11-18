@@ -1,0 +1,10 @@
+name: api_txt_sum
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.8.5
+  - black==20.8b1
+  - fastapi==0.61.2
+  - nltk==3.5
+  - uvicorn==0.12.2
